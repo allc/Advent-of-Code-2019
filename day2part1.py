@@ -1,7 +1,7 @@
 '''
 https://adventofcode.com/2019/day/2
 
-Usage: cat day2part1input.txt | python3 day2part1.py
+Usage: cat day2input.txt | python3 day2part1.py
 '''
 
 
