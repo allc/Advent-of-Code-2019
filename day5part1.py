@@ -1,5 +1,5 @@
 '''
-https://adventofcode.com/2019/day/2
+https://adventofcode.com/2019/day/5
 
 Usage: cat day5input.txt | python3 day5part1.py
 '''
