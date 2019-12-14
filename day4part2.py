@@ -1,5 +1,5 @@
 '''
-https://adventofcode.com/2019/day/3
+https://adventofcode.com/2019/day/4
 
 Usage: python3 day4part2.py
 '''
